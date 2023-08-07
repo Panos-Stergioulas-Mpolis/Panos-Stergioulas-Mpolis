@@ -4,7 +4,7 @@ I am an undergraduate student at the University of Macedonia in the Department o
 
 <hr/>
 
-### Programming Languages and Τools
+### :computer: Programming Languages and Τools
 <br/>
 
   <a href="https://skillicons.dev">
