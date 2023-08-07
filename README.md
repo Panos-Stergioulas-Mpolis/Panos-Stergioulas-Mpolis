@@ -8,7 +8,7 @@ I am an undergraduate student at the University of Macedonia in the Department o
 <br/>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c,androidstudio" />
   </a>
 </p>
 
