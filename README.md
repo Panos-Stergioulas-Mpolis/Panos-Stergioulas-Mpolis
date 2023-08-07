@@ -9,9 +9,11 @@ If you want to learn more about me you can visit my website <a href="https://pan
 <hr/>
 
 Programming glossaries and tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c" />
+  </a>
+</p>
 
 <!--
 **Panos-Stergioulas-Mpolis/Panos-Stergioulas-Mpolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
