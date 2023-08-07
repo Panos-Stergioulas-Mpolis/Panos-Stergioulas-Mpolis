@@ -8,16 +8,8 @@ I am an undergraduate student at the University of Macedonia in the Department o
 ### Programming Languages and Τools
 <br/>
 
-  <a href="https://skillicons.dev" class="lang">
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-    <img src="https://skillicons.dev/icons?i=java" />
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=c" />
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c,androidstudio" />
   </a>
   
 
