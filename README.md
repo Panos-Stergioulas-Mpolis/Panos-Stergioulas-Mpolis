@@ -1,4 +1,4 @@
-#### Panos_Katos :wave:
+# Panos_Katos :wave:
 
 ### About me
 ⚡I am an undergraduate student at the University of Macedonia in the Department of Applied Informatics and Information Systems, in my fourth and final year of studies. I'm interested in Software Development and especially in Web Development. If you want to learn more about me you can visit my website <a href="https://panagiotis-stergioulas-bolis.netlify.app/" targe="_blank">here</a>
