@@ -8,7 +8,7 @@ If you want to learn more about me you can visit my website <a href="https://pan
 
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panos-Stergioulas-Mpolis)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 
 <!--
