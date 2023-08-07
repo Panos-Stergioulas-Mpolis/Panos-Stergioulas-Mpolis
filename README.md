@@ -8,7 +8,7 @@ If you want to learn more about me you can visit my website <a href="https://pan
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c)](https://skillicons.dev)
 
 
 <!--
