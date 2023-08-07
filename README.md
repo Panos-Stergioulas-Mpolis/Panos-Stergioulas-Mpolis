@@ -8,7 +8,7 @@ If you want to learn more about me you can visit my website <a href="https://pan
 
 <hr/>
 
-<h1>Programming glossaries and tools</h1>
+### Programming glossaries and tools
 
 <p align="center">
   <a href="https://skillicons.dev">
