@@ -6,7 +6,7 @@ I am an undergraduate student at the University of Macedonia in the Department o
 
 ### Programming glossaries and tools
 <br/>
-<p align="left" space="10px">
+<p align="left" gap="50px">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c" />
   </a>
