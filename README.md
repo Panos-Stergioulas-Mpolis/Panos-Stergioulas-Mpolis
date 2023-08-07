@@ -8,6 +8,8 @@ If you want to learn more about me you can visit my website <a href="https://pan
 
 <hr/>
 
+Programming glossaries and tools
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c)](https://skillicons.dev)
 
 
