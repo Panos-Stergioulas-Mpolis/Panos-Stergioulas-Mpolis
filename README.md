@@ -6,6 +6,8 @@ I'm interested in Software Development and especially in Web Development.
 
 If you want to learn more about me you can visit my website <a href="https://panagiotis-stergioulas-bolis.netlify.app/" targe="_blank">here</a>
 
+<hr/>
+
 
 <!--
 **Panos-Stergioulas-Mpolis/Panos-Stergioulas-Mpolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
