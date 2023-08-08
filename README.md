@@ -1,7 +1,9 @@
 # Panos_Katos :wave:
 
 <p align="center">
-  <iframe src="https://gifer.com/embed/fxVE"</iframe>
+  
+  ![fxVE](https://github.com/Panos-Stergioulas-Mpolis/Panos-Stergioulas-Mpolis/assets/120753668/90ffed41-63f6-4604-af2a-f75657a499b4)
+
   <a href="https://www.linkedin.com/in/panagiotis-stergioulas-bolis-40a834223/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
