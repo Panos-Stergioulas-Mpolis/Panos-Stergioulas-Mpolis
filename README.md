@@ -1,7 +1,7 @@
 # Panos_Katos :wave:
 
 <p align="center">
-  <iframe src="https://gifer.com/embed/fxVE" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+  <iframe src="https://gifer.com/embed/fxVE"</iframe>
   <a href="https://www.linkedin.com/in/panagiotis-stergioulas-bolis-40a834223/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
