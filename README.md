@@ -1,6 +1,6 @@
 # Panos_Katos :wave:
 
-<a href="https://linkedin.com/Panos-Stergioulas-Mpolis"
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 ### About me ⚡
 
