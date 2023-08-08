@@ -1,8 +1,8 @@
 # Panos_Katos :wave:
 
-
-<img width='250' height="250" align="center" src="https://github.com/Panos-Stergioulas-Mpolis/Panos-Stergioulas-Mpolis/assets/120753668/60aaef8e-5c67-4da6-b72c-0d2314135163"/>
-
+<p align="center">
+<img width='250' height="250" src="https://github.com/Panos-Stergioulas-Mpolis/Panos-Stergioulas-Mpolis/assets/120753668/60aaef8e-5c67-4da6-b72c-0d2314135163"/>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/panagiotis-stergioulas-bolis-40a834223/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
