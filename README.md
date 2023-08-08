@@ -3,7 +3,8 @@
 
 <p width="300px" height="300px" align="center">
   
-  ![fxVE](https://github.com/Panos-Stergioulas-Mpolis/Panos-Stergioulas-Mpolis/assets/120753668/90ffed41-63f6-4604-af2a-f75657a499b4)
+  ![Uploading 7gQj.gif…]()
+
   
 </p>
 <p align="center">
