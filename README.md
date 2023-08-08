@@ -1,8 +1,5 @@
 # Panos_Katos :wave:
 
-
-pokemon
-
 <p align="center">
   <img src="https://i.gifer.com/fxVE.gif"/>
   <a href="https://www.linkedin.com/in/panagiotis-stergioulas-bolis-40a834223/">
