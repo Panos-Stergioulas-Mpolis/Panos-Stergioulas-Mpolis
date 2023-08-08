@@ -1,12 +1,10 @@
 # Panos_Katos :wave:
 
 
-<p width="300px" height="300px" align="center">
-  
+<p width="300" height="300" align="center">
   ![Uploading 7gQj.gif…]()
-
-  
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/panagiotis-stergioulas-bolis-40a834223/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
