@@ -1,6 +1,6 @@
 # Panos_Katos :wave:
 
-<a href="https://www.linkedin.com/Panos-Stergioulas-Mpolis"
+<a href="https://linkedin.com/Panos-Stergioulas-Mpolis"
 
 ### About me ⚡
 
