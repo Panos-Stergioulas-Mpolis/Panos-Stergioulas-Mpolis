@@ -22,9 +22,5 @@ I am an undergraduate student at the University of Macedonia in the Department o
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,c,androidstudio" />
   </a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panos-Stergioulas-Mpolis&show_icons=true&theme=radical)
-  
-
 <!--
 
