@@ -23,7 +23,7 @@ I am an undergraduate student at the University of Macedonia in the Department o
   </a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Panos-Stergioulas-Mpolis=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panos-Stergioulas-Mpolis&show_icons=true&theme=radical)
   
 
 <!--
