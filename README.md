@@ -1,4 +1,4 @@
-# Panos_Katos :wave:
+# Panos :wave:
 
 <p align="center">
 <img width='200' height="200" src="https://github.com/Panos-Stergioulas-Mpolis/Panos-Stergioulas-Mpolis/assets/120753668/60aaef8e-5c67-4da6-b72c-0d2314135163"/>
