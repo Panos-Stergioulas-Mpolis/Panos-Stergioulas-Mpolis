@@ -11,7 +11,7 @@
 
 ### About me ⚡
 
-I am an undergraduate student at the University of Macedonia in the Department of Applied Informatics and Information Systems, in my fourth and final year of studies. I am interested in Software Development. I am enthusiastic and willing to learn new technologies as well as improve and practice the knowledge I gained from my studies. If you want to know more about me, you can visit my website <a href="https://panagiotis-stergioulas-bolis.netlify.app/" targe="_blank">here</a>.
+"I am a fourth-year undergraduate student in the Department of Applied Informatics and Information Systems at the University of Macedonia. My field of interest is Software Development. I am an enthusiastic learner and always eager to acquire new skills and knowledge to improve my abilities. To learn more about me, please visit my website at https://panagiotis-stergioulas-bolis.netlify.app/."
 
 <hr/>
 
