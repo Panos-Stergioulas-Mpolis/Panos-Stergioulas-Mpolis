@@ -11,7 +11,9 @@
 
 ### About me ⚡
 
-"I am a fourth-year undergraduate student in the Department of Applied Informatics and Information Systems at the University of Macedonia. My field of interest is Software Development. I am an enthusiastic learner and always eager to acquire new skills and knowledge to improve my abilities. To learn more about me, please visit my website at https://panagiotis-stergioulas-bolis.netlify.app/."
+🎓 BSc in Computer Science & Information Systems
+💻 2 years of professional experience as a Front-End Developer
+🚀 Currently leveling up my back-end skills, with the goal of becoming a Full-Stack Software Engineer
 
 <hr/>
 
