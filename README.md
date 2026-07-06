@@ -11,8 +11,8 @@
 
 ### About me ⚡
 
-🎓 BSc in Computer Science & Information Systems
-💻 2 years of professional experience as a Front-End Developer
+🎓 BSc in Computer Science & Information Systems <bt/>
+💻 2 years of professional experience as a Front-End Developer <bt/>
 🚀 Currently leveling up my back-end skills, with the goal of becoming a Full-Stack Software Engineer
 
 <hr/>
